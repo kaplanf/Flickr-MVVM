@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Flickr MVVM</string>
+    <string name="detail_title">Detail</string>
+    <string name="recent_title">Recent Photos</string>
+</resources>
